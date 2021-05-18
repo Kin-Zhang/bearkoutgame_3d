@@ -1,4 +1,6 @@
 # Breakout_Game_3D
+原来链接在gitee上：[https://gitee.com/kin_zhang/bearkoutgame_3d](https://gitee.com/kin_zhang/bearkoutgame_3d) 还有presentation时候的录像等视频资料
+The origin link is on gitee.com: [https://gitee.com/kin_zhang/bearkoutgame_3d](https://gitee.com/kin_zhang/bearkoutgame_3d) whichi have videos about proposal and presentation
 
 #### 介绍/ Description
 这是一个3D的breakout game，整体框架搭建由张聪明(Kin)完成，具体代码部分，请参考代码块的[readme](https://gitee.com/kin_zhang/bearkoutgame_3d/tree/master/3D-Breakout-Game) 如果感兴趣，继续完成了TODO可以欢迎发起pull request~
@@ -16,11 +18,11 @@ The whole game include: game logic (collision), the texture of bricks,the ball, 
 
 #### 安装教程/ How to run
 不需要安装依赖，直接git clone整个代码 three的库都已经包含在include_js的文件夹中，详情可参阅[Code readme](https://gitee.com/kin_zhang/bearkoutgame_3d/tree/master/3D-Breakout-Game)，直接安装VSCode用Live Server然后右下角会有Go live是最快的运行代码方式
-或者直接在gitee的Page页试 [Click here to try it](http://kin_zhang.gitee.io/comp5411_v3/)
+或者直接在github的Page页试 **[Click here to try it](https://kin-zhang.github.io/bearkoutgame_3d/3D-Breakout-Game/)**
 
 [Code readme](https://gitee.com/kin_zhang/bearkoutgame_3d/tree/master/3D-Breakout-Game)
 
-Or [Click here to try it](http://kin_zhang.gitee.io/comp5411_v3/)
+Or **[Click here to try it](https://kin-zhang.github.io/bearkoutgame_3d/3D-Breakout-Game/)**
 
 #### 使用说明/ How to play
 使用键盘去左右控制paddle，按空格开始发射球。
